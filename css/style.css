@@ -229,3 +229,55 @@ body {
     color: black;
     font-weight: 800;
 }
+
+
+/* Support part */
+
+.support {
+    background-image: url(/assets/handshake.jpg);
+    background-size: cover;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 130px;
+    margin-right: 130px;
+    border-radius: 20px;
+    padding: 80px;
+    height: 150px;
+}
+
+.banner h1 {
+    font-size: 30px;
+    font-family: 900;
+    color:white;
+    margin-bottom: 20px;
+}
+
+.banner p {
+    color: #d5d1d1;
+    margin-bottom: 20px;
+}
+
+.input {
+    width: 55%;
+    padding: 20px 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.btn {
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: 900;
+    color: black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
