@@ -45,12 +45,13 @@ body {
 }
 
 #learning {
-    margin-top: 40px;
+    margin-top: 80px;
     background-color: rgb(240, 238, 238);
     border-radius: 10px;
     margin-left: 150px;
     margin-right: 150px;
     padding: 50px;
+    margin-bottom: 100px;
 }
 
 .learn h1 {    
@@ -74,10 +75,6 @@ body {
     box-shadow: 0px 0px 0px white, -1px -0.30px 0px white;
     border-radius: 10px;
     padding: 45px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
 }
 
 .layer-1 h2 {
@@ -95,4 +92,29 @@ body {
     font-size: 20px;
     margin-top: 20px;
     border:2px solid black;
+}
+
+.inspiration {
+    text-align: center;
+}
+
+.inspiration h1 {
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.inspiration p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    line-height: 25px;
+}
+
+.tutorial {
+    border: 1px solid gray;
+    padding: 40px;
+    margin-top: 40px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 10px;
 }
