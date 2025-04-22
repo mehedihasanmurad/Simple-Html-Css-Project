@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.nav h2 {
+    border: 1px solid gray;
+    padding: 10px 20px;
+}
