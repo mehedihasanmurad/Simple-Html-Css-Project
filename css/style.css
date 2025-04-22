@@ -42,7 +42,7 @@ body {
 
 .hero button {
     background-color: black;
-    padding: 20px 30px;
+    padding: 15px 30px;
     color: white;
     font-size: 25px;
     border-radius: 10px;
@@ -183,6 +183,49 @@ body {
 }
 
 .current-learn1 a {
+    color: black;
+    font-weight: 800;
+}
+
+
+
+/* Next Target */
+
+.next-target {
+    display: flex;
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+
+.image img {
+    /* font-size: 35px; */
+    margin-top: 80px;
+    margin-left: 50px;
+
+}
+
+.next-target1 {
+    padding: 40px;
+}
+
+.next-target1 h1 {
+    font-size: 25px;
+    font-weight: 900;
+    margin-bottom: 20px; 
+}
+
+.next-target1 p {
+    margin-bottom: 20px;
+    color: gray;
+    line-height: 25px;
+    font-size: 18px;
+}
+
+.next-target1 a {
     color: black;
     font-weight: 800;
 }
