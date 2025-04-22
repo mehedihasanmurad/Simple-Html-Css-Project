@@ -43,3 +43,56 @@ body {
     border-radius: 10px;
     margin-top: 20px;
 }
+
+#learning {
+    margin-top: 40px;
+    background-color: rgb(240, 238, 238);
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 50px;
+}
+
+.learn h1 {    
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: 900;
+}
+
+.learn p {   
+    text-align: center;
+    color: gray;
+    line-height: 25px;
+}
+
+.layer-1 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-left: 20px;
+    box-shadow: 0px 0px 0px white, -1px -0.30px 0px white;
+    border-radius: 10px;
+    padding: 45px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.layer-1 h2 {
+    font-size: 30px;
+    color: #444242;
+}
+
+.layer-1 p {
+    margin-top: 20px;
+    color: gray;
+}
+
+.layer-1 button {
+    padding: 10px 25px;
+    font-size: 20px;
+    margin-top: 20px;
+    border:2px solid black;
+}
